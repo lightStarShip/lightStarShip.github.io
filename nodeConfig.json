@@ -1,0 +1,23 @@
+[
+        {
+                "location": "Japan",
+                "icon": "JP",
+                "ip": "144.202.110.17",
+                "free": true,
+                "address": "SV82CVCBo58NU9opHzj7jUGgQBm5PrwoLkZPMbED2PD16A"
+        },
+        {
+                "location": "Japan",
+                "icon": "JP",
+                "ip": "45.32.130.165",
+                "free": false,
+                "address": "SV4a9kD9PdTLihJhD3CgZbTkMSoc528sXG1Tupz2PCwDZ3"
+        },
+        {
+                "location": "Japan",
+                "icon": "JP",
+                "ip": "149.248.37.162",
+                "free": false,
+                "address": "SV6rvZ1uRW1mpiovcUVvm98vtvcMe3FvyHcns8aUqfW2oc"
+        }
+]
