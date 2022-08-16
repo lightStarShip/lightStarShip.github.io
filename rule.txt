@@ -2485,3 +2485,10 @@
 \.1-apple.com.tw\.
 \.ggpht.com\.
 \.line-apps.com\.
+\.line-scdn.net\.
+\.snapchat.com\.
+\.gvt1.com\.
+\.linecorp.com\.
+\.tiktokv.com\.
+\.igamecj.com\.
+\.google\.
