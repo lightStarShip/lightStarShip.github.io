@@ -1,1 +1,1 @@
-{"dns":3,"by_pass":1,"must_hit":1,"config":2,"price":8, "dollar":"cny"}
+{"dns":3,"by_pass":1,"must_hit":1,"config":3,"price":8, "dollar":"cny"}
