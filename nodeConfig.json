@@ -1,23 +1,30 @@
 [
         {
-                "location": "Japan",
+                "location": "Tokyo",
                 "icon": "JP",
                 "ip": "108.160.131.57",
                 "free": true,
                 "address": "SV82CVCBo58NU9opHzj7jUGgQBm5PrwoLkZPMbED2PD16A"
         },
         {
-                "location": "Japan",
+                "location": "Seoul",
                 "icon": "KR",
                 "ip": "141.164.35.238",
                 "free": false,
                 "address": "SVGP7ke5wwN9VHwcN6xxTfq6mmrnww8GW5fXkcUGmkjTqo"
         },
         {
-                "location": "Japan",
+                "location": "Singapore",
                 "icon": "SG",
                 "ip": "45.32.115.168",
                 "free": false,
                 "address": "SVFd5Qpmomn64BiqBCryYpFsLpxbnvg7nxQyma4M4kEjRf"
+        },
+        {
+                "location": "Los Angeles",
+                "icon": "US",
+                "ip": "45.77.70.183",
+                "free": false,
+                "address": "SV59knEgzXwBo11Qe2sZivTBKwCNKtn3eowpbB61d6BhcZ"
         }
 ]
