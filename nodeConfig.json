@@ -26,5 +26,12 @@
                 "ip": "45.77.70.183",
                 "free": false,
                 "address": "SV59knEgzXwBo11Qe2sZivTBKwCNKtn3eowpbB61d6BhcZ"
+        },
+        {
+                "location": "Seoul",
+                "icon": "KR",
+                "ip": "3.34.130.248",
+                "free": false,
+                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
         }
 ]
