@@ -1213,7 +1213,7 @@
 \.thechinabeat.org\.
 \.co.tv\.
 \.jingpin.org\.
-\.facebook.com\.
+facebook.com\.
 \.space-scape.com\.
 \.dadi360.com\.
 \.tomsc.com\.
