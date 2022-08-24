@@ -7,6 +7,13 @@
                 "address": "SV82CVCBo58NU9opHzj7jUGgQBm5PrwoLkZPMbED2PD16A"
         },
         {
+                "location": "Tokyo",
+                "icon": "JP",
+                "ip": "167.179.82.43",
+                "free": true,
+                "address": "SVFsnipTpNPQwpwdU3S6j68jxa6FJR9Z9gXeeq7rfHRWWr"
+        },
+        {
                 "location": "Seoul",
                 "icon": "KR",
                 "ip": "141.164.35.238",
