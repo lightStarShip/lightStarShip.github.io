@@ -615,7 +615,7 @@
 \.wikileaks.ch\.
 \.ronjoneswriter.com\.
 \.bbsfeed.com\.
-\.facebook.net\.
+facebook.net\.
 \.mymaji.com\.
 \.iask.bz\.
 \.tubecao.com\.
@@ -871,7 +871,7 @@
 \.thebodyshop-usa.com\.
 \.youxu.info\.
 \.lianyue.net\.
-\.youtube.com\.
+youtube.com\.
 \.googleadservices.com\.
 \.zhreader.com\.
 \.tcno.net\.
