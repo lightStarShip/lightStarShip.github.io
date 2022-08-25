@@ -28,6 +28,13 @@
                 "address": "SVGP7ke5wwN9VHwcN6xxTfq6mmrnww8GW5fXkcUGmkjTqo"
         },
         {
+                "location": "HK-169",
+                "icon": "HK",
+                "ip": "34.96.141.169",
+                "free": false,
+                "address": "SV56JL2ZD3FhThL3phqckjJ21jAkdPUGs2vucvsVzENAbx"
+        },
+        {
                 "location": "Singapore-168",
                 "icon": "SG",
                 "ip": "45.32.115.168",
