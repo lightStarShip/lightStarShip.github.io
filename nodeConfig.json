@@ -14,6 +14,13 @@
                 "address": "SVGPSaWrWYc2D7KX64esthuEuMuRTkLxFzXfmiZjyeV7EA"
         },
         {
+                "location": "HK-23",
+                "icon": "HK",
+                "ip": "34.92.150.23",
+                "free": true,
+                "address": "SVABA9YnHvwoqrRjGneFyWg4E8gnPVXQZ72wkgxRZD3jFA"
+        },
+        {
                 "location": "Seoul-238",
                 "icon": "KR",
                 "ip": "141.164.35.238",
