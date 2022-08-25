@@ -17,7 +17,7 @@
                 "location": "HK-23",
                 "icon": "HK",
                 "ip": "34.92.150.23",
-                "free": true,
+                "free": false,
                 "address": "SVABA9YnHvwoqrRjGneFyWg4E8gnPVXQZ72wkgxRZD3jFA"
         },
         {
@@ -31,7 +31,7 @@
                 "location": "HK-169",
                 "icon": "HK",
                 "ip": "34.96.141.169",
-                "free": false,
+                "free": true,
                 "address": "SV56JL2ZD3FhThL3phqckjJ21jAkdPUGs2vucvsVzENAbx"
         },
         {
