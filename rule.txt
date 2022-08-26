@@ -792,7 +792,6 @@ facebook.net\.
 \.zhuichaguoji.org\.
 \.china101.com\.
 \.hideipvpn.com\.
-\.sina.com\.
 \.orn.jp\.
 \.gartlive.com\.
 \.clientsfromhell.net\.
