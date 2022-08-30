@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+em,i {
+    font-style: normal;
+}
+li {
+    list-style: none;
+}
+img {
+    border: 0;
+    vertical-align: middle;
+}
+button {
+    cursor: pointer;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+ 
+button,
+input {
+    font-family:  PingFangSC-Semibold, PingFang SC,PingFang SC,Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+
+}
+body {
+    -webkit-font-smoothing:antialiased;
+    background-color: #fff;
+    font: 16px/1.5 PingFangSC-Semibold, PingFang SC,PingFang SC,Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+    color: #000;
+}
+.hide,.none {
+    display: none;
+}
+/* 伪元素清除浮动 */
+.clearfix:after {
+    visibility: hidden;
+    clear: both;
+    display: block;
+    content: ".";
+    height: 0;
+}
+.clearfix {
+    *zoom: 1
+}

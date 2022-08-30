@@ -3,26 +3,73 @@ html,body{
     height: 100%;
     padding: 0;
     margin: 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-image: url(../image/bg_img.png);
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+}
+
+#nav{
+    width: 100%;
+    height: 72px;
+    background-color:rgba(255, 255, 255, 0.5);
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+    flex-direction: row;
+    flex-shrink: 0;
+    align-items: center;
+}
+
+#nav ul{
+    width: 100%;
+    min-width: 548px;
+    flex:right;
+    margin-right: 240px;
+}
+
+li{
+    width: 94px;
+    height:34px;
+    line-height: 34px;
+    display:inline;
+    font-weight: bolder;
+    margin-left: 88px;
+    float: right;
+    text-align: center;
+}
+#nav ul li:hover{
+    color: #000;
+    background: #F9E133;
+    border-radius: 12px;
+}
+#name{
+    size: 16px;
+
+}
+#icon{
+    width: 42px;
+    height: 42px;
+    margin-left: 220px;
 }
 
 .download{
-width: 415px;
-height: 280px;
+width: 622px;
+height: 355px;
+margin-top: 85px;
 background-color: white;
-border-radius: 18px;
+border-radius: 36px;
 display: flex;
 align-items: center;
 flex-direction: column;
+padding-bottom: 29px;
 }
 .download .icon{
-    width: 36px;
-    height: 36px;
-    margin-top: 12px;
+    width: 41px;
+    height: 72px;
+    margin-top: 41px;
 }
 .download .title{
     margin-top: 4px;
@@ -33,24 +80,80 @@ flex-direction: column;
 
 .download .qr{
     display: flex;
-    width: 155px;
-    height: 155px;
+    width: 174px;
+    height: 174px;
     margin-top: 15px;
 }
-.download div{
-    display: flex;
-    flex-direction: row;
 
-}
 .download .btn_group{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .download .btn{
-    width: 155px;
+    width: 174px;
     display: flex;
-    height: 43px;
+    height: 48px;
     margin-top: 15px;
     margin-left: 9px;
     margin-right: 9px;
 }
+
+.about{
+    margin-top: 125px;
+    flex-shrink: 0;
+    position: relative;
+    background-color: #ff0000;
+}
+.abouttile{
+    font-size:41px;
+    position: absolute; 
+    left: 150px;
+    top: 120px;
+    font-family: PingFangSC-Semibold, PingFang SC;
+  
+}
+
+.aboutdes{
+    font-size:21px;
+    position: absolute; 
+    left: 150px;
+    top: 180px;
+    font-family: PingFangSC-Semibold, PingFang SC;
+  
+}
+.help{
+    flex-shrink: 0;
+     position: relative;
+     background-color: #0000ff;
+}
+.helptile{
+    font-size:27px;
+    left: 150px;
+    top: 46px;
+    position: absolute;
+    font-family: PingFangSC-Semibold, PingFang SC;
+  
+}
+
+.footer{
+    width: 100%;
+    height: 179px;
+    flex-shrink: 0;
+    display: flex;
+    background-color: #fff;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.footertext{
+    color: #000;
+    size: 42px;
+}
+.footerlink{
+    width: 123px;
+    height: 83px;
+    flex-shrink: 0;
+    margin-left: 105px;
+}
+
