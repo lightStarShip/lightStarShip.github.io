@@ -2492,3 +2492,4 @@ facebook.com\.
 \.igamecj.com\.
 \.google\.
 \.cdninstagram.com\.
+\.phncdn.com\.
