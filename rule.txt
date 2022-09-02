@@ -2491,3 +2491,4 @@ facebook.com\.
 \.tiktokv.com\.
 \.igamecj.com\.
 \.google\.
+\.cdninstagram.com\.
