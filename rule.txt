@@ -2494,4 +2494,3 @@ facebook.com\.
 \.cdninstagram.com\.
 \.phncdn.com\.
 \.xnxx-cdn.com\.
-\.github.com\.
