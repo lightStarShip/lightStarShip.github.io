@@ -1,10 +1,10 @@
 [
         {
-                "location": "Tokyo-57",
-                "icon": "JP",
-                "ip": "108.160.131.57",
+                "location": "Seoul-248",
+                "icon": "KR",
+                "ip": "3.34.130.248",
                 "free": true,
-                "address": "SV82CVCBo58NU9opHzj7jUGgQBm5PrwoLkZPMbED2PD16A"
+                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
         },
         {
                 "location": "Seoul-42",
@@ -47,12 +47,5 @@
                 "ip": "45.77.70.183",
                 "free": false,
                 "address": "SV59knEgzXwBo11Qe2sZivTBKwCNKtn3eowpbB61d6BhcZ"
-        },
-        {
-                "location": "Seoul-248",
-                "icon": "KR",
-                "ip": "3.34.130.248",
-                "free": false,
-                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
         }
 ]
