@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="./style/home.css">
         <link rel="stylesheet" href="./style/base.css">
     <title>LightStarShip VPN</title>
-
 </head>
 <body >
 	<div id="nav">
@@ -19,27 +18,38 @@
 		<li><a href="#link">联系我们</a></li>
 	</ul>
 	</div>
-    <div class="download">
-        <img class="icon" src="./image/logo.png">
-        <span class="title">TheBigDipper VPN</span>
-            <img class="qr" src="./image/star_url_qr.png"/>
-            <div class="btn_group">
+    <div class="download_root">
+        <div class="download_left_wraper">
+            <img class="icon" src="./image/logo.png">
+            <span class="title">TheBigDipper VPN</span>
+                <img class="qr" src="./image/star_url_qr.png"/>
+        </div>
+        <div class="download_right_wraper">
             <a href="https://lightstarship.github.io/TheBigDipperVPN.apk"><img class="btn" src="./image/download_android.png"/></a>
             <a href="https://testflight.apple.com/join/65ziWXW0"><img class="btn" src="./image/download_ios.png"/></a>
-            <a href=""><img class="btn" src="./image/download_google.png"/></a>
+            <a href="javascript:alert('Google Play正在审核')"><img class="btn" src="./image/download_google.png"/></a>
+            <a href="https://lightstarship.github.io/theBigDipper.dmg"><img class="btn" src="./image/download_mac.png"/></a>
         </div>
     </div>
-    <div class="about" id="about">
-    	<img src="./image/about.png">
-    	<span class="abouttile">关于我们</span>
-    	<span class="aboutdes">TheBigDipper是以区块链加密技术为核心的、<br/>安全的、稳定的VPN APP</span>
+    <div class="about_wraper" id="about">
+        <div class="bg">
+            <span class="abouttile">关于我们</span>
+            <span class="aboutdes">TheBigDipper是以区块链加密技术为核心的、<br/>安全的、稳定的VPN APP</span>
+        </div>
     </div>
     <div class="help" id="help">
-    	<img src="./image/how.png">
-		<span class="helptile">如何使用</span>
+        <div class="bg">
+            <span class="title">如何使用</span>
+        </div>
+    </div>
+    <div class="backup_wraper">
+        <img src="./image/backup.png" class="backup">
+    </div>
+    <div class="import_account_wraper">
+        <img src="./image/import.png" class="import">
     </div>
    <div class="footer" id="link">
-   	<span class="footertext">联系我们：</span> <a href="#"><img class="footerlink" src="./image/tele.png"></a><a href="#"><img class="footerlink" src="./image/fb.png"></a><a href="#"><img class="footerlink" src="./image/tw.png"></a>
+   	    <span class="footer_text">联系我们：</span> <img class="footer_link" src="./image/tele.png"><img class="footer_link" src="./image/fb.png"><img class="footer_link" src="./image/tw.png">
    </div>
 </body>
 </html>
