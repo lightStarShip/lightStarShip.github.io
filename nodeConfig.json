@@ -1,10 +1,10 @@
 [
         {
-                "location": "Seoul-248",
-                "icon": "KR",
-                "ip": "3.34.130.248",
-                "free": true,
-                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
+        "location": "Seoul-49",
+        "icon": "KR",
+        "ip": "54.180.163.49",
+        "free": true,
+        "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
         },
         {
                 "location": "Seoul-42",
@@ -12,6 +12,13 @@
                 "ip": "158.247.231.42",
                 "free": true,
                 "address": "SVGPSaWrWYc2D7KX64esthuEuMuRTkLxFzXfmiZjyeV7EA"
+        },
+        {
+        "location": "Seoul-248",
+        "icon": "KR",
+        "ip": "3.34.130.248",
+        "free": false,
+        "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
         },
         {
                 "location": "HK-23",
