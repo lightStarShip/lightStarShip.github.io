@@ -1,10 +1,24 @@
 [
         {
-        "location": "Seoul-49",
-        "icon": "KR",
-        "ip": "54.180.163.49",
-        "free": true,
-        "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
+                "location": "US-170",
+                "icon": "US",
+                "ip": "144.202.10.170",
+                "free": true,
+                "address": "SV5rUpxsdgVtzXr6WLb6nE7g5UALHjRg3Pg7utAk77iUFY"
+        },
+        {
+                "location": "Seoul-49",
+                "icon": "KR",
+                "ip": "54.180.163.49",
+                "free": true,
+                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
+        },
+        {
+                "location": "US-235",
+                "icon": "US",
+                "ip": "45.77.104.235",
+                "free": true,
+                "address": "SVEG15KMztpcmACzrr9fftZMta8Hcq3wv37nzayiggNNKk"
         },
         {
                 "location": "Seoul-42",
@@ -14,25 +28,11 @@
                 "address": "SVGPSaWrWYc2D7KX64esthuEuMuRTkLxFzXfmiZjyeV7EA"
         },
         {
-        "location": "Seoul-248",
-        "icon": "KR",
-        "ip": "3.34.130.248",
-        "free": false,
-        "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
-        },
-        {
                 "location": "HK-23",
                 "icon": "HK",
                 "ip": "34.92.150.23",
-                "free": false,
+                "free": true,
                 "address": "SVABA9YnHvwoqrRjGneFyWg4E8gnPVXQZ72wkgxRZD3jFA"
-        },
-        {
-                "location": "Seoul-238",
-                "icon": "KR",
-                "ip": "141.164.35.238",
-                "free": false,
-                "address": "SVGP7ke5wwN9VHwcN6xxTfq6mmrnww8GW5fXkcUGmkjTqo"
         },
         {
                 "location": "HK-169",
@@ -40,6 +40,13 @@
                 "ip": "34.96.141.169",
                 "free": true,
                 "address": "SV56JL2ZD3FhThL3phqckjJ21jAkdPUGs2vucvsVzENAbx"
+        },
+        {
+                "location": "Seoul-248",
+                "icon": "KR",
+                "ip": "3.34.130.248",
+                "free": false,
+                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
         },
         {
                 "location": "Singapore-168",
