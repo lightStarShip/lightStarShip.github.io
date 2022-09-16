@@ -2495,3 +2495,4 @@ facebook.com\.
 \.phncdn.com\.
 \.xnxx-cdn.com\.
 \.github.com\.
+\.gvt2.com\.
