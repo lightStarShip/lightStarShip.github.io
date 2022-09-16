@@ -28,6 +28,20 @@
                 "address": "SVGPSaWrWYc2D7KX64esthuEuMuRTkLxFzXfmiZjyeV7EA"
         },
         {
+                "location": "JP-187",
+                "icon": "JP",
+                "ip": "45.76.222.187",
+                "free": true,
+                "address": "SVFBSThX3pKd5yoSnnQ7Nvpunop143rLYamB6VZ97CsyD1"
+        },
+        {
+                "location": "JP-105",
+                "icon": "JP",
+                "ip": "45.77.19.105",
+                "free": true,
+                "address": "SVEtMwpqcZEu2U72LDzii4Aw3yhM6uGjjR7EdEDthCeek1"
+        },
+        {
                 "location": "Seoul-248",
                 "icon": "KR",
                 "ip": "3.34.130.248",
