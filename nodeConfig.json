@@ -61,5 +61,19 @@
                 "ip": "45.77.70.183",
                 "free": false,
                 "address": "SV59knEgzXwBo11Qe2sZivTBKwCNKtn3eowpbB61d6BhcZ"
+        },
+        {
+                "location": "HK-235",
+                "icon": "HK",
+                "ip": "34.92.140.235",
+                "free": false,
+                "address": "SVAiNNvi1szDCFucdtvJnr8zRJJQetqzpMSZLT28k1Hrsw"
+        },
+        {
+                "location": "HK-217",
+                "icon": "HK",
+                "ip": "34.96.146.217",
+                "free": false,
+                "address": "SVGGF3Zx6c36KKftksbDHx7H6FEQ9eq4jEihy1saKmNyvG"
         }
 ]
