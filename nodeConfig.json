@@ -28,20 +28,6 @@
                 "address": "SVGPSaWrWYc2D7KX64esthuEuMuRTkLxFzXfmiZjyeV7EA"
         },
         {
-                "location": "HK-23",
-                "icon": "HK",
-                "ip": "34.92.150.23",
-                "free": true,
-                "address": "SVABA9YnHvwoqrRjGneFyWg4E8gnPVXQZ72wkgxRZD3jFA"
-        },
-        {
-                "location": "HK-169",
-                "icon": "HK",
-                "ip": "34.96.141.169",
-                "free": true,
-                "address": "SV56JL2ZD3FhThL3phqckjJ21jAkdPUGs2vucvsVzENAbx"
-        },
-        {
                 "location": "Seoul-248",
                 "icon": "KR",
                 "ip": "3.34.130.248",
