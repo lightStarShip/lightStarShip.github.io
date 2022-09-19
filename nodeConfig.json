@@ -7,13 +7,6 @@
                 "address": "SV5rUpxsdgVtzXr6WLb6nE7g5UALHjRg3Pg7utAk77iUFY"
         },
         {
-                "location": "Seoul-49",
-                "icon": "KR",
-                "ip": "54.180.163.49",
-                "free": true,
-                "address": "SVFGReRw4GeVkXcmtEnqoqRJ8DXEuoF9RKzQnrj7ieiPuz"
-        },
-        {
                 "location": "US-235",
                 "icon": "US",
                 "ip": "45.77.104.235",
@@ -75,5 +68,12 @@
                 "ip": "34.96.146.217",
                 "free": false,
                 "address": "SVGGF3Zx6c36KKftksbDHx7H6FEQ9eq4jEihy1saKmNyvG"
+        },
+        {
+                "location": "Seoul-49",
+                "icon": "KR",
+                "ip": "54.180.163.49",
+                "free": false,
+                "address": "SVFGReRw4GeVkXcmtEnqoqRJ8DXEuoF9RKzQnrj7ieiPuz"
         }
 ]
