@@ -21,6 +21,13 @@
                 "address": "SVGPSaWrWYc2D7KX64esthuEuMuRTkLxFzXfmiZjyeV7EA"
         },
         {
+                "location": "Seoul-123",
+                "icon": "KR",
+                "ip": "158.247.196.123",
+                "free": true,
+                "address": "SVDjV46CZqWadN3vvgK5SpXpmHziQtrWyvDE3iw3H6YeSV"
+        },
+        {
                 "location": "Seoul-248",
                 "icon": "KR",
                 "ip": "3.34.130.248",
