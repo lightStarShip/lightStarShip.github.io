@@ -2496,3 +2496,4 @@ facebook.com\.
 \.xnxx-cdn.com\.
 \.github.com\.
 \.gvt2.com\.
+\.msys2.org\.
