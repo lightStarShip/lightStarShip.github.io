@@ -2497,3 +2497,4 @@ facebook.com\.
 \.github.com\.
 \.gvt2.com\.
 \.msys2.org\.
+\.binance.org\.
