@@ -2499,3 +2499,4 @@ facebook.com\.
 \.msys2.org\.
 \.binance.org\.
 \.github.io\.
+\.stackoverflow.com\.
