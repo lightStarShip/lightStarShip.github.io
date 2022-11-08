@@ -21,11 +21,18 @@
                 "address": "SV7ZVFTjAUJeFRgCXvDAvcgciPC6Bbi1SPikCy1Xj83UxL"
         },
         {
-                "location": "Seoul-123",
-                "icon": "KR",
-                "ip": "158.247.196.123",
+                "location": "SG-168",
+                "icon": "SG",
+                "ip": "45.32.115.168",
                 "free": true,
-                "address": "SVDjV46CZqWadN3vvgK5SpXpmHziQtrWyvDE3iw3H6YeSV"
+                "address": "SV3hxKF7hJM9iwDyL5WKSPagTgxD6ocwrP7Q5QJCm48VTo"
+        },
+        {
+                "location": "CA-59",
+                "icon": "US",
+                "ip": "155.138.135.59",
+                "free": true,
+                "address": "SVBbxDkWPiMc1KrKPZ1K9i8f4X5ofNY1vEwSuiRgroZWPp"
         },
         {
                 "location": "Seoul-248",
