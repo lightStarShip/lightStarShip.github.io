@@ -1,1 +1,1 @@
-{"dns":19,"by_pass":1,"must_hit":1,"config":25,"price":10, "dollar":"cny", "macVer":10011}
+{"dns":20,"by_pass":1,"must_hit":1,"config":25,"price":10, "dollar":"cny", "macVer":10011}

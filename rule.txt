@@ -2500,4 +2500,5 @@ facebook.com\.
 \.binance.org\.
 \.github.io\.
 \.stackoverflow.com\.
-\.etherscan.io\\.
+\.etherscan.io\.
+\.xnxx-cdn.com\.
