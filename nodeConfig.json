@@ -54,12 +54,5 @@
                 "ip": "45.77.70.183",
                 "free": false,
                 "address": "SV59knEgzXwBo11Qe2sZivTBKwCNKtn3eowpbB61d6BhcZ"
-        },
-        {
-                "location": "Seoul-49",
-                "icon": "KR",
-                "ip": "54.180.163.49",
-                "free": false,
-                "address": "SV2PsPR1eEBSGhBHM6efWcWnJ2WLBfAEgJQk6cDTz8KNWq"
         }
 ]
