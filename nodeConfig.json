@@ -31,15 +31,8 @@
                 "location": "CA-59",
                 "icon": "US",
                 "ip": "155.138.135.59",
-                "free": true,
-                "address": "SVBbxDkWPiMc1KrKPZ1K9i8f4X5ofNY1vEwSuiRgroZWPp"
-        },
-        {
-                "location": "Seoul-248",
-                "icon": "KR",
-                "ip": "3.34.130.248",
                 "free": false,
-                "address": "SV3d6Xyge14XdZ1PSzyfvxVC7Fui46JqqSwfoGcA1EHUSL"
+                "address": "SVBbxDkWPiMc1KrKPZ1K9i8f4X5ofNY1vEwSuiRgroZWPp"
         },
         {
                 "location": "CA-150",
