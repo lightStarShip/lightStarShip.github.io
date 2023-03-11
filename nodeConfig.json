@@ -31,7 +31,7 @@
                 "location": "FR-184",
                 "icon": "SG",
                 "ip": "45.76.46.184",
-                "free": true,
+                "free": false,
                 "address": "SV2gSVZiayMmgpRCsiEwCGoxmtEwgcaiMuJKCyQBrBVqAu"
         },
         {
@@ -47,12 +47,5 @@
                 "ip": "216.128.182.150",
                 "free": false,
                 "address": "SVFLzFyqkbkhzCciqg4gpobgWiZ4yVuPUdPuXFtE8X9mYW"
-        },
-        {
-                "location": "US-183",
-                "icon": "US",
-                "ip": "45.77.70.183",
-                "free": false,
-                "address": "SV59knEgzXwBo11Qe2sZivTBKwCNKtn3eowpbB61d6BhcZ"
         }
 ]
