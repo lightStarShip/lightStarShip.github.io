@@ -21,13 +21,6 @@
                 "address": "SVDB37tFweATbHjhLq9rHUGDoWUVDYc5PNR6r4VEVE6Y6"
         },
         {
-                "location": "US-93",
-                "icon": "US",
-                "ip": "144.202.114.93",
-                "free": true,
-                "address": "SV4iBLqk4UyesZxXWmUNyJQgRtnrYsDAX98QQyBQQrPRQf"
-        },
-        {
                 "location": "SG-168",
                 "icon": "SG",
                 "ip": "45.32.115.168",
