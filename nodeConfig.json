@@ -28,6 +28,13 @@
                 "address": "SVFEXUZDhWSW2HT1hmUzgrZTinkhBLpy1SxwkdVWrhav8D"
         },
         {
+                "location": "FR-184",
+                "icon": "SG",
+                "ip": "45.76.46.184",
+                "free": true,
+                "address": "SV2gSVZiayMmgpRCsiEwCGoxmtEwgcaiMuJKCyQBrBVqAu"
+        },
+        {
                 "location": "CA-59",
                 "icon": "US",
                 "ip": "155.138.135.59",
