@@ -24,13 +24,17 @@ func main() {
 }
 
 var fileMap = map[string]string{
-	"/version.js":       "../version.js",
-	"/rule.txt":         "../rule.txt",
-	"/must_hit.txt":     "../must_hit.txt",
-	"/bypass.txt":       "../bypass.txt",
-	"/ruleVer.js":       "../ruleVer.js",
-	"/nodeConfig.json":  "../nodeConfig.json",
-	"/priceConfig.json": "../priceConfig.json",
+	"/version.js":          "../version.js",
+	"/rule.txt":            "../rule.txt",
+	"/must_hit.txt":        "../must_hit.txt",
+	"/bypass.txt":          "../bypass.txt",
+	"/ruleVer.js":          "../ruleVer.js",
+	"/nodeConfig.json":     "../nodeConfig.json",
+	"/priceConfig.json":    "../priceConfig.json",
+	"/theBigDipper.dmg":    "../theBigDipper.dmg",
+	"/star.apk":            "../star.apk",
+	"/TheBigDipperVPN.apk": "../TheBigDipperVPN.apk",
+	"/TBDSetup.rar":        "../TBDSetup.rar",
 }
 
 func welcome() http.Handler {
