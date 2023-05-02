@@ -2500,3 +2500,4 @@ facebook.com\.
 \.github.io\.
 \.stackoverflow.com\.
 \.etherscan.io\.
+\.okx.com\.
