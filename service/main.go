@@ -23,30 +23,36 @@ func main() {
 	}
 }
 
-var fileMap = map[string]string{
-	"/version.js":          "../version.js",
-	"/rule.txt":            "../rule.txt",
-	"/must_hit.txt":        "../must_hit.txt",
-	"/bypass.txt":          "../bypass.txt",
-	"/ruleVer.js":          "../ruleVer.js",
-	"/nodeConfig.json":     "../nodeConfig.json",
-	"/priceConfig.json":    "../priceConfig.json",
-	"/theBigDipper.dmg":    "../theBigDipper.dmg",
-	"/star.apk":            "../star.apk",
-	"/TheBigDipperVPN.apk": "../TheBigDipperVPN.apk",
-	"/TBDSetup.rar":        "../TBDSetup.rar",
+type UriInfos struct {
+	Content string
+	Type    string
+}
+
+var fileMap = map[string]UriInfos{
+	"/version.js":          {"../version.js", "application/json"},
+	"/rule.txt":            {"../rule.txt", "application/text"},
+	"/must_hit.txt":        {"../must_hit.txt", "application/text"},
+	"/bypass.txt":          {"../bypass.txt", "application/text"},
+	"/ruleVer.js":          {"../ruleVer.js", "application/json"},
+	"/nodeConfig.json":     {"../nodeConfig.json", "application/json"},
+	"/priceConfig.json":    {"../priceConfig.json", "application/json"},
+	"/theBigDipper.dmg":    {"../theBigDipper.dmg", "application/octet-stream"},
+	"/star.apk":            {"../star.apk", "application/octet-stream"},
+	"/TheBigDipperVPN.apk": {"../TheBigDipperVPN.apk", "application/octet-stream"},
+	"/TBDSetup.rar":        {"../TBDSetup.rar", "application/octet-stream"},
 }
 
 func welcome() http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 
-		path, ok := fileMap[r.RequestURI]
+		dest, ok := fileMap[r.RequestURI]
 		if !ok {
 			_, _ = fmt.Fprint(w, "welcome to config service")
 			return
 		}
-		bts, _ := os.ReadFile(path)
+		bts, _ := os.ReadFile(dest.Content)
+		w.Header().Add("Content-Type", dest.Type)
 		_, _ = w.Write(bts)
-		fmt.Println("success for:", path)
+		fmt.Println("success for:", dest.Content, dest.Type)
 	})
 }
