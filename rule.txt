@@ -2502,3 +2502,4 @@ facebook.com\.
 \.etherscan.io\.
 \.okx.com\.
 \.ethereum.org\.
+\.binance.com\.
