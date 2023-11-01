@@ -7,13 +7,6 @@
                 "address": "SV5rUpxsdgVtzXr6WLb6nE7g5UALHjRg3Pg7utAk77iUFY"
         },
         {
-                "location": "US-235",
-                "icon": "US",
-                "ip": "45.77.104.235",
-                "free": true,
-                "address": "SVEG15KMztpcmACzrr9fftZMta8Hcq3wv37nzayiggNNKk"
-        },
-        {
                 "location": "SG-168",
                 "icon": "SG",
                 "ip": "45.32.115.168",
