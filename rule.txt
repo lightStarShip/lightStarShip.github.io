@@ -2503,3 +2503,4 @@ facebook.com\.
 \.okx.com\.
 \.ethereum.org\.
 \.binance.com\.
+\.openai.com\.
