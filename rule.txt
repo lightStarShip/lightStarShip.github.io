@@ -2504,3 +2504,4 @@ facebook.com\.
 \.ethereum.org\.
 \.binance.com\.
 \.openai.com\.
+\.discord.com\.
