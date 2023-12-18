@@ -2505,3 +2505,4 @@ facebook.com\.
 \.binance.com\.
 \.openai.com\.
 \.discord.com\.
+\.metamask.io\.
