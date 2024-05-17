@@ -2506,3 +2506,4 @@ facebook.com\.
 \.openai.com\.
 \.discord.com\.
 \.metamask.io\.
+\.chatgpt.com\.
