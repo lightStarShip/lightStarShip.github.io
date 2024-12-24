@@ -2507,3 +2507,4 @@ facebook.com\.
 \.discord.com\.
 \.metamask.io\.
 \.chatgpt.com\.
+\.cloudflare.com\.
