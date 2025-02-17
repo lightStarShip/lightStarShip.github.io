@@ -21,13 +21,6 @@
                 "address": "SVFEXUZDhWSW2HT1hmUzgrZTinkhBLpy1SxwkdVWrhav8D"
         },
         {
-                "location": "US-22",
-                "icon": "US",
-                "ip": "66.135.10.22",
-                "free": true,
-                "address": "SVB2abfucDdoSJu4S9TGGi5WwZmPPphxxUVEsv5NWbqrq9"
-        },
-        {
                 "location": "CA-150",
                 "icon": "US",
                 "ip": "216.128.182.150",
