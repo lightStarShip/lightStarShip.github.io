@@ -24,7 +24,7 @@
                 "location": "CA-150",
                 "icon": "US",
                 "ip": "216.128.182.150",
-                "free": false,
+                "free": true,
                 "address": "SVFLzFyqkbkhzCciqg4gpobgWiZ4yVuPUdPuXFtE8X9mYW"
         }
 ]
