@@ -2534,3 +2534,4 @@ facebook.com\.
 \.poe.com\.
 \.segment.io\.
 \.sentry.io\.
+\.grok.com\.
