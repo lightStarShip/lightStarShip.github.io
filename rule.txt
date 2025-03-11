@@ -2537,3 +2537,4 @@ facebook.com\.
 \.grok.com\.
 \.anthropic.com\.
 \.claude.ai\.
+\.x.com\.
