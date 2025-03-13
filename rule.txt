@@ -2538,3 +2538,4 @@ facebook.com\.
 \.anthropic.com\.
 \.claude.ai\.
 \.x.com\.
+\.grok.com\.
