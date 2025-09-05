@@ -37,6 +37,7 @@ var fileMap = map[string]UriInfos{
 	"/nodeConfig.json":     {"../nodeConfig.json", "application/json"},
 	"/priceConfig.json":    {"../priceConfig.json", "application/json"},
 	"/theBigDipper.dmg":    {"../theBigDipper.dmg", "application/octet-stream"},
+	"/TweetCatApp.dmg":     {"../TweetCatApp.dmg", "application/octet-stream"},
 	"/star.apk":            {"../star.apk", "application/octet-stream"},
 	"/TheBigDipperVPN.apk": {"../TheBigDipperVPN.apk", "application/octet-stream"},
 	"/TBDSetup.rar":        {"../TBDSetup.rar", "application/octet-stream"},
