@@ -2539,3 +2539,4 @@ facebook.com\.
 \.claude.ai\.
 \.x.com\.
 \.grok.com\.
+\.suno.com\.
